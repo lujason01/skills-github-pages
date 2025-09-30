@@ -7,17 +7,18 @@ title: Welcome to my blog!
 Here I am practicing how to set up and modify a github page.   
 This intended for my **RNA Seq Analysis Reports**
 
-## Intended Formart
+## Intended Format
 
-- ### Dataset ID
-- ### Study title
-- ### Brief description of the data
-- ### My findings title 
-- ### Working Report (All code and Graphics Generated)
-- ### Conclusions
+- **Dataset ID**
+- **Study title**
+- **Brief description of the data**
+- **My findings title** 
+- **Working Report (All code and Graphics Generated)**
+- **Conclusions**
 
 
 ---
-*I am working towards improvement, reach out incase something needs to be corrected!*
+<center> *I am working towards improvement, reach out incase something needs to be corrected!* </center>
 
-#### T  h  a  n  k  - - -  Y  o  u
+<center> #### T  h  a  n  k  - - -  Y  o  u </center>
+---
