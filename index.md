@@ -18,7 +18,7 @@ This intended for my **RNA Seq Analysis Reports**
 
 
 ---
-<center> *I am working towards improvement, reach out incase something needs to be corrected!* </center>
+<center> <i>I am working towards improvement, reach out incase something needs to be corrected!</i> </center>
 
-<center> #### T  h  a  n  k  - - -  Y  o  u </center>
+<center> <b> T  h  a  n  k  - - -  Y  o  u </b> </center>
 ---
