@@ -16,6 +16,12 @@ This intended for my **RNA Seq Analysis Reports**
 - **Working Report (All code and Graphics Generated)**
 - **Conclusions**
 
+**UPDATE: 5 hours Later**  
+
+Checkout my RNA Seq Analysis Reports Page [**HERE**](https://lujason01.github.io/rna_seq_analysis/)  
+
+**Mission Accomplished!**    
+*Drop a Dynamite 🧨💥*
 
 ---
 <center> <i>I am working towards improvement, reach out incase something needs to be corrected!</i> </center>
